@@ -1,4 +1,5 @@
-https://sdmntprwestus3.oaiusercontent.com/files/00000000-d94c-61fd-810a-7a044fe9f8ad/raw?se=2025-06-12T09%3A25%3A02Z&sp=r&sv=2024-08-04&sr=b&scid=4aea008e-20a5-5a14-a07f-6a45af6ed7ca&skoid=71e8fa5c-90a9-4c17-827b-14c3005164d6&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-12T03%3A41%3A39Z&ske=2025-06-13T03%3A41%3A39Z&sks=b&skv=2024-08-04&sig=DfVnrhzbr4i9VJJMD9D4bWobQMqLPzvqYz3epikASKA%3D![image](https://github.com/user-attachments/assets/acd859e2-d5fd-49f3-9a76-68f5fefc1670)
+![Logo_Travi_querformat](https://github.com/user-attachments/assets/1fa91dd2-98a5-408c-8d41-30de1e61b104)
+
 
 
 # Travi — Travel Smarter 🌍✈️  
