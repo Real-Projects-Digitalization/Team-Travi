@@ -1,4 +1,4 @@
-<img width="475" alt="Travi_Travel_Smarter_Logo" src="https://github.com/user-attachments/assets/3d4bd010-20ed-4a2f-8e6b-662d1f7985ec" />
+<img width="150" alt="Travi_Travel_Smarter_Logo" src="https://github.com/user-attachments/assets/3d4bd010-20ed-4a2f-8e6b-662d1f7985ec" />
 
 
 # Travi — Travel Smarter 🌍✈️  
