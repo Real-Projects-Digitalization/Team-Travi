@@ -36,14 +36,20 @@ Group travel can be chaotic—messy WhatsApp threads, countless app-switching, i
 
 ---
 
-## Target Persona
+## Target Persona – Gen Z Travelers (Aged 18–30)
 
-**Lisa, 26**  
-- Travels 3x/year, mostly on weekends  
-- Gets travel inspiration from social media  
-- Main struggles: group coordination and final decision-making  
-- Budget: ~2000€/year  
-- Motto: “Travel more, stress less”
+**Meet Lisa, 26**  
+*Explorer. Weekender. Social planner.*
+
+- Travels about **3 times a year**, mostly on **weekend trips** with friends  
+- Scrolls through **TikTok & Instagram** for destination inspiration  
+- Loves traveling but **hates the chaos** of group planning—"Who's booking what?"  
+- Often gets stuck in endless **indecisive chats**  
+- Budget: **~2,000€ per year** for travel  
+- Values: **spontaneity, social fun**, and stress-free coordination  
+- Dream? **“Less back-and-forth, more take-off.”**
+
+> Lisa doesn’t want spreadsheets and stress—she wants travel that’s easy, social, and exciting. That’s where Travi comes in.
 
 ---
 
