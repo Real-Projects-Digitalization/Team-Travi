@@ -38,7 +38,7 @@ The structure is designed to guide the user from the big picture to the small de
 ## First Relational Prototype:
 ![Travi-Seite-2 drawio](https://github.com/user-attachments/assets/37a6ce5f-5c41-4f2c-a898-dec0c0adf3ac)
 
-- **Destinations: This is the top-level entity (the "Where"). It's the container for everything else
-- **Trips: These are thematic experiences or activities that are dependent on a Destination (the "What")
-- **Accommodations: These are the places to stay, also dependent on a Destination (the "Where to sleep")
+- **Destinations: This is the top-level entity (the "Where"). It's the container for everything else**
+- **Trips: These are thematic experiences or activities that are dependent on a Destination (the "What")**
+- **Accommodations: These are the places to stay, also dependent on a Destination (the "Where to sleep")**
 This structure prevents overwhelming the user and makes the planning process intuitive.
