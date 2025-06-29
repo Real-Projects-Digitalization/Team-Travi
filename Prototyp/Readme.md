@@ -4,6 +4,8 @@
 This document outlines the development process, architecture, and current state of the "Team Travi" mobile application.
 Travi is an all-in-one app designed to simplify group travel by centralizing planning, coordination, and decision-making. Our goal is to transform the often chaotic process of planning a group trip into a fun, collaborative, and data-driven experience.
 
+Link to the final Prototype: https://luca-steinleitners-team-1.adalo.com/travi
+
 ### Prototype Evolution: From Vision to Functionality
 Our development process followed an iterative approach, starting with a visual concept (Figma Development) and evolving into a functional Prototype based on user feedback / interview partners.
 
