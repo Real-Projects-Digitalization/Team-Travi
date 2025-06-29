@@ -7,12 +7,12 @@ Travi is an all-in-one app designed to simplify group travel by centralizing pla
 ### Prototype Evolution: From Vision to Functionality
 Our development process followed an iterative approach, starting with a visual concept (Figma Development) and evolving into a functional Prototype based on user feedback / interview partners.
 
-Phase 1: The Figma Prototype (Low-Fidelity)
+## Phase 1: The Figma Prototype (Low-Fidelity)
 Our initial step was to create a visual representation of our app concept using Figma. This resulted in a clickable, non-functional prototype that allowed us to present the basic user flow and visual design.
 We also used the Figma Prototype for our Mid Term presentation to showcase our idea.
 Link to the Figma Prototype: https://www.figma.com/proto/pX4Wk5MMcwsg7BG328ONou/Untitled?node-id=1-4&starting-point-node-id=1%3A4&t=58aXvMhfriEeNYDl-1
 
-Key Feedback from Figma Prototype Testing
+# Key Feedback from Figma Prototype Testing
 We gathered crucial feedback from initial user tests with the Figma prototype. The main criticisms were:
 - **Limited Functionality: Users could see the design but couldn't perform any real actions. There was no data being created or saved**
 - **Superficial Experience: The prototype felt shallow as users could not explore beyond a few pre-defined paths**
@@ -21,19 +21,15 @@ We gathered crucial feedback from initial user tests with the Figma prototype. T
 
 This feedback made it clear that to properly validate our idea, we needed a prototype with real, working functionalities.
 
-Phase 2: The Adalo MVP (High-Fidelity & Functional)
+## Phase 2: The Adalo MVP (High-Fidelity & Functional)
 Based on the feedback, we decided to build a functional Prototype using the low-code platform Adalo. This allowed us to move beyond visuals and implement the core logic of our app.
 
-Key Improvements with the Adalo MVP:
+# Key Improvements with the Adalo MVP:
 Our current Adalo prototype is a significant leap forward and now includes:
-
-User Authentication: Users can sign up for a new account and sign in to their existing account.
-
-Interactive "Swipe" Feature: A core feature where users can actively engage with content by swiping on Destinations, Trips, and Accommodations. These choices are saved in a real database.
-
-Group Creation & Management: Users can create travel groups, name them, and invite other registered users to join.
-
-Collaborative Planning: The app demonstrates a basic version of the group matching feature, showing how individual preferences can be aggregated.
+- **User Authentication: Users can sign up for a new account and sign in to their existing account**
+- **Interactive "Swipe" Feature: A core feature where users can actively engage with content by swiping on Destinations, Trips, and Accommodations. These choices are saved in a real database**
+- **Group Creation & Management: Users can create travel groups, name them, and invite other registered users to join**
+- **Collaborative Planning: The app demonstrates a basic version of the group matching feature, showing how individual preferences can be aggregated**
 
 2. Relational Data Model
 To ensure a logical and scalable application, we designed a relational data model with a clear hierarchy. We call this our "Logical Granularity".
