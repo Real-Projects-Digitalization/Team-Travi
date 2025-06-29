@@ -31,15 +31,12 @@ Our current Adalo prototype is a significant leap forward and now includes:
 - **Group Creation & Management: Users can create travel groups, name them, and invite other registered users to join**
 - **Collaborative Planning: The app demonstrates a basic version of the group matching feature, showing how individual preferences can be aggregated**
 
-2. Relational Data Model
+# Relational Data Model
 To ensure a logical and scalable application, we designed a relational data model with a clear hierarchy. We call this our "Logical Granularity".
-
 The structure is designed to guide the user from the big picture to the small details, mirroring a natural planning process.
+![image](https://github.com/user-attachments/assets/8b52f514-eefe-4e4d-9f55-bcde58bf0214)
 
-Destinations: This is the top-level entity (the "Where"). It's the container for everything else.
-
-Trips: These are thematic experiences or activities that are dependent on a Destination (the "What").
-
-Accommodations: These are the places to stay, also dependent on a Destination (the "Where to sleep").
-
+- **Destinations: This is the top-level entity (the "Where"). It's the container for everything else
+- **Trips: These are thematic experiences or activities that are dependent on a Destination (the "What")
+- **Accommodations: These are the places to stay, also dependent on a Destination (the "Where to sleep")
 This structure prevents overwhelming the user and makes the planning process intuitive.
