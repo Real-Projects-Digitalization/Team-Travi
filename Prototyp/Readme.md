@@ -7,12 +7,12 @@ Travi is an all-in-one app designed to simplify group travel by centralizing pla
 ### Prototype Evolution: From Vision to Functionality
 Our development process followed an iterative approach, starting with a visual concept (Figma Development) and evolving into a functional Prototype based on user feedback / interview partners.
 
-## Phase 1: The Figma Prototype (Low-Fidelity)
+# Phase 1: The Figma Prototype (Low-Fidelity)
 Our initial step was to create a visual representation of our app concept using Figma. This resulted in a clickable, non-functional prototype that allowed us to present the basic user flow and visual design.
 We also used the Figma Prototype for our Mid Term presentation to showcase our idea.
 Link to the Figma Prototype: https://www.figma.com/proto/pX4Wk5MMcwsg7BG328ONou/Untitled?node-id=1-4&starting-point-node-id=1%3A4&t=58aXvMhfriEeNYDl-1
 
-# Key Feedback from Figma Prototype Testing
+## Key Feedback from Figma Prototype Testing
 We gathered crucial feedback from initial user tests with the Figma prototype. The main criticisms were:
 - **Limited Functionality: Users could see the design but couldn't perform any real actions. There was no data being created or saved**
 - **Superficial Experience: The prototype felt shallow as users could not explore beyond a few pre-defined paths**
@@ -21,7 +21,7 @@ We gathered crucial feedback from initial user tests with the Figma prototype. T
 
 This feedback made it clear that to properly validate our idea, we needed a prototype with real, working functionalities.
 
-## Phase 2: The Adalo MVP (High-Fidelity & Functional)
+# Phase 2: The Adalo MVP (High-Fidelity & Functional)
 Based on the feedback, we decided to build a functional Prototype using the low-code platform Adalo. This allowed us to move beyond visuals and implement the core logic of our app.
 
 # Key Improvements with the Adalo MVP:
@@ -42,3 +42,18 @@ The structure is designed to guide the user from the big picture to the small de
 - **Trips: These are thematic experiences or activities that are dependent on a Destination (the "What")**
 - **Accommodations: These are the places to stay, also dependent on a Destination (the "Where to sleep")**
 This structure prevents overwhelming the user and makes the planning process intuitive.
+
+## Current State of the MVP
+The current functional prototype built with Adalo successfully demonstrates the core value proposition of our app. Key working features include:
+
+✓ User Sign-Up & Sign-In
+
+✓ A dynamic "Swipe" interface for liking/disliking Destinations, Trips, and Accommodations
+
+✓ Saving user choices to a persistent database
+
+✓ Viewing liked items in a "Favorites" section
+
+✓ Creating travel groups and inviting other users
+
+✓ A basic view of a group's commonly liked items
