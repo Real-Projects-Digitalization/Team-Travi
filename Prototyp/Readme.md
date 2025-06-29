@@ -34,7 +34,9 @@ Our current Adalo prototype is a significant leap forward and now includes:
 # Relational Data Model
 To ensure a logical and scalable application, we designed a relational data model with a clear hierarchy. We call this our "Logical Granularity".
 The structure is designed to guide the user from the big picture to the small details, mirroring a natural planning process.
-![image](https://github.com/user-attachments/assets/8b52f514-eefe-4e4d-9f55-bcde58bf0214)
+
+## First Relational Prototype:
+![Travi-Seite-2 drawio](https://github.com/user-attachments/assets/37a6ce5f-5c41-4f2c-a898-dec0c0adf3ac)
 
 - **Destinations: This is the top-level entity (the "Where"). It's the container for everything else
 - **Trips: These are thematic experiences or activities that are dependent on a Destination (the "What")
