@@ -43,7 +43,7 @@ The structure is designed to guide the user from the big picture to the small de
 - **Accommodations: These are the places to stay, also dependent on a Destination (the "Where to sleep")**
 This structure prevents overwhelming the user and makes the planning process intuitive.
 
-## Current State of the MVP
+## Current State of the Prototype
 The current functional prototype built with Adalo successfully demonstrates the core value proposition of our app. Key working features include:
 
 ✓ User Sign-Up & Sign-In
@@ -57,3 +57,11 @@ The current functional prototype built with Adalo successfully demonstrates the 
 ✓ Creating travel groups and inviting other users
 
 ✓ A basic view of a group's commonly liked items
+
+## Future Work & Next Steps
+While our Prototype proves the concept, several key features are planned for future iterations to fully realize our vision. The most important missing features are:
+
+- **Smart Filters: Implementing dynamic filters that allow users to narrow down options based on their profile data (e.g., budget, interests) and the preferences of their group**
+- **AI Integration: The next major step is to connect the collected user data (profiles, swipes) to an external AI model (like Google's Gemini or OpenAI's GPT). This will enable truly personalized recommendations for individuals and generate optimized "Perfect Match" suggestions for groups, moving beyond simple "like" aggregation**
+- **Lots of Bugfixing**
+- **Adding Layers of Secruity for Group Modification**
