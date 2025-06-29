@@ -1,4 +1,4 @@
-Team Travi - Project Documentation
+##Team Travi - Project Documentation
 Introduction
 This document outlines the development process, architecture, and current state of the "Team Travi" mobile application.
 Travi is an all-in-one app designed to simplify group travel by centralizing planning, coordination, and decision-making. Our goal is to transform the often chaotic process of planning a group trip into a fun, collaborative, and data-driven experience.
