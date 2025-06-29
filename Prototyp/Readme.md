@@ -1,4 +1,4 @@
-#Team Travi - Project Documentation
+# Team Travi - Project Documentation
 
 Introduction
 This document outlines the development process, architecture, and current state of the "Team Travi" mobile application.
