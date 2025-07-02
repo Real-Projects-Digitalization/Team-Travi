@@ -72,4 +72,8 @@ This folder contains all prototype-related artifacts and documents used througho
 
 - **Team Canvas 1.0.pdf**  
   First version of the team canvas capturing early responsibilities and collaboration values.
+
+- **Potential_User_Evaluation_Team-Travi.xlsx**  
+  Catching Feedback to our MVP from the first Interview Partners.
+
   
