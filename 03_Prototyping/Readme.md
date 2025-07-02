@@ -1,7 +1,7 @@
 # Team Travi - Project Documentation
 
 ## Introduction
-This document outlines the development process, architecture, and current state of the "Team Travi" mobile application.
+This document outlines the development process, architecture, and current state of the "Team Travi" mobile application.  
 Travi is an all-in-one app designed to simplify group travel by centralizing planning, coordination, and decision-making. Our goal is to transform the often chaotic process of planning a group trip into a fun, collaborative, and data-driven experience.
 
 Link to the final Prototype: https://luca-steinleitners-team-1.adalo.com/travi
@@ -10,8 +10,8 @@ Link to the final Prototype: https://luca-steinleitners-team-1.adalo.com/travi
 Our development process followed an iterative approach, starting with a visual concept (Figma Development) and evolving into a functional Prototype based on user feedback / interview partners.
 
 # Phase 1: The Figma Prototype (Low-Fidelity)
-Our initial step was to create a visual representation of our app concept using Figma. This resulted in a clickable, non-functional prototype that allowed us to present the basic user flow and visual design.
-We also used the Figma Prototype for our Mid Term presentation to showcase our idea.
+Our initial step was to create a visual representation of our app concept using Figma. This resulted in a clickable, non-functional prototype that allowed us to present the basic user flow and visual design.  
+We also used the Figma Prototype for our Mid Term presentation to showcase our idea.  
 Link to the Figma Prototype: https://www.figma.com/proto/pX4Wk5MMcwsg7BG328ONou/Untitled?node-id=1-4&starting-point-node-id=1%3A4&t=58aXvMhfriEeNYDl-1
 
 ## Key Feedback from Figma Prototype Testing
@@ -34,7 +34,7 @@ Our current Adalo prototype is a significant leap forward and now includes:
 - **Collaborative Planning: The app demonstrates a basic version of the group matching feature, showing how individual preferences can be aggregated**
 
 # Relational Data Model
-To ensure a logical and scalable application, we designed a relational data model with a clear hierarchy. We call this our "Logical Granularity".
+To ensure a logical and scalable application, we designed a relational data model with a clear hierarchy. We call this our "Logical Granularity".  
 The structure is designed to guide the user from the big picture to the small details, mirroring a natural planning process.
 
 ## First Relational Prototype:
@@ -49,22 +49,27 @@ This structure prevents overwhelming the user and makes the planning process int
 ## Current State of the Prototype
 The current functional prototype built with Adalo successfully demonstrates the core value proposition of our app. Key working features include:
 
-✓ User Sign-Up & Sign-In
-
-✓ A dynamic "Swipe" interface for liking/disliking Destinations, Trips, and Accommodations
-
-✓ Saving user choices to a persistent database
-
-✓ Viewing liked items in a "Favorites" section
-
-✓ Creating travel groups and inviting other users
-
+✓ User Sign-Up & Sign-In  
+✓ A dynamic "Swipe" interface for liking/disliking Destinations, Trips, and Accommodations  
+✓ Saving user choices to a persistent database  
+✓ Viewing liked items in a "Favorites" section  
+✓ Creating travel groups and inviting other users  
 ✓ A basic view of a group's commonly liked items
 
-## Future Work & Next Steps
-While our Prototype proves the concept, several key features are planned for future iterations to fully realize our vision. The most important missing features are:
+---
 
-- **Smart Filters: Implementing dynamic filters that allow users to narrow down options based on their profile data (e.g., budget, interests) and the preferences of their group**
-- **AI Integration: The next major step is to connect the collected user data (profiles, swipes) to an external AI model (like Google's Gemini or OpenAI's GPT). This will enable truly personalized recommendations for individuals and generate optimized "Perfect Match" suggestions for groups, moving beyond simple "like" aggregation**
-- **Lots of Bugfixing**
-- **Adding Layers of Secruity for Group Modification**
+## 📁 03_Prototyping
+
+This folder contains all prototype-related artifacts and documents used throughout the design and development phase. It tracks the evolution from low-fidelity design to high-functioning MVP.
+
+### Files:
+
+- **Prototype_Team_Travi_Figma.mp4**  
+  A walkthrough video showcasing the first interactive Figma prototype of the Travi app.
+
+- **The Team Canvas.pdf**  
+  Team-building and role clarification document.
+
+- **Team Canvas 1.0.pdf**  
+  First version of the team canvas capturing early responsibilities and collaboration values.
+  
