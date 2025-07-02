@@ -25,3 +25,6 @@ This folder contains early-stage research and analysis files that help define th
 - **Target group and draft guidelines.pdf**  
   Definition of the target audience and initial design or development guidelines.
 
+  - **Interview Results.xlsx**  
+  Results from the interviews with Gen Zs.
+
