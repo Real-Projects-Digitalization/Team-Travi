@@ -16,5 +16,5 @@ This folder includes all documents related to the value creation logic and strat
 - **Competition AI planner.xlsx**  
   An AI-based planning tool used to analyze and compare competitive offerings in the trip planning space.
 
-- **PL_Team_Travi.xlsx**  
+- **Business Model.xlsx**  
   Preliminary business planning spreadsheet containing key figures and financial planning logic. This includes early estimates for pricing, user growth, revenue potential, and cost structures.
